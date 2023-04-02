@@ -7,8 +7,8 @@ Esta é uma lista dos meus projetos open source. Aqui você encontrará informa�
 ## Sumário
 
 - [Lista de Projetos](#lista-de-projetos)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
+- [Contribuição](#%EF%B8%8F-contribui%C3%A7%C3%A3o)
+- [Licença](#%EF%B8%8F-licen%C3%A7a)
 - [Contato](#-contato)
 
 <!-- Lista de Projetos -->
