@@ -18,16 +18,15 @@ A seguir, uma lista de todos os meus projetos open source:
 
 ### [ORMBr Framework for Delphi](https://github.com/HashLoad/ORMBr)
 
-OBJETO RELACIONAL MAPEAMENTO BRASIL é um framework, que da visão de aproveitar ao máximo o conceito de Orientação a Objetos, o Mapeamento Objeto-Relacional (ORM) consiste em ter por objetivo encurtar as distâncias entre o objeto e o modelo entidade, criando uma ponte (mapeamento) entre eles. Com a abordagem, é possível a construção de sistemas aplicando o conceito, cujos os dados são persistidos em um banco de dados..
+OBJETO RELACIONAL MAPEAMENTO BRASIL é um framework, que da visão de aproveitar ao máximo o conceito de Orientação a Objetos, o Mapeamento Objeto-Relacional (ORM) consiste em ter por objetivo encurtar as distâncias entre o objeto e o modelo entidade, criando uma ponte (mapeamento) entre eles. Com a abordagem, é possível a construção de sistemas aplicando o conceito, cujos os dados são persistidos em um banco de dados.
 
 ### [DBEBr Framework for Delphi/Lazarus](https://github.com/HashLoad/DBEBr)
 
-DATABASE ENGINE BRASIL é um framework opensource que provê desacoplamento de conexão através de uma interface orientada a objeto, dando ao seu sistema totalmente desacoplado à um único Engine de conexão, proporcionando a troca para usar qualquer Engine disponível no mercado de forma fácil e simples, este framework é usado pelo projeto ORMBr para se conectar a vários Engines
-Descrição curta do projeto.
+DATABASE ENGINE BRASIL é um framework opensource que provê desacoplamento de conexão através de uma interface orientada a objeto, dando ao seu sistema totalmente desacoplado à um único Engine de conexão, proporcionando a troca para usar qualquer Engine disponível no mercado de forma fácil e simples, este framework é usado pelo projeto ORMBr para se conectar a vários Engines.
 
 ### [DBCBr Framework for Delphi](https://github.com/HashLoad/DBCBr)
 
-DATABASE COMPARER BRASIL é um Framework, comparador de estrutura de banco de dados, nasceu do código do ORMBr que disponibiliza o recurso a um nível mais limitado como: criar tabelas, novos campos a tabela já existente, e outros recursos de criar PrimaryKeys, ForeignKeys e Indexes. O DBCBr, sendo agora um código independente, dará a comunidade mais poder de ajuda, com isso, mais poder ao framework de comparação de metadata mais completo, colabore faça parte desse projeto
+DATABASE COMPARER BRASIL é um Framework, comparador de estrutura de banco de dados, nasceu do código do ORMBr que disponibiliza o recurso a um nível mais limitado como: criar tabelas, novos campos a tabela já existente, e outros recursos de criar PrimaryKeys, ForeignKeys e Indexes. O DBCBr, sendo agora um código independente, dará a comunidade mais poder de ajuda, com isso, mais poder ao framework de comparação de metadata mais completo, colabore faça parte desse projeto.
 
 ### [CQLBr Framework for Delphi/Lazarus](https://github.com/HashLoad/DBCBr)
 
@@ -35,7 +34,11 @@ CRITERIA QUERY LANGUAGE BRASIL é um framework que provê escritas através de u
 
 ### [ORMBr Restful Components for Delphi](https://github.com/HashLoad/ORMBr-Restful-Components)
 
-ORMBr-Restful-Components é um conjunto de componentes para facilitar a criação de serviços RESTful em aplicações que utilizam a biblioteca ORMBr para acesso a banco de dados, ele fornece uma os componentes Server/Client para criar serviços RESTful de forma fácil e rápida para as operações de CRUD (Create, Read, Update, Delete), utilizando uma abordagem de programação orientada a objetos e seguindo boas práticas de desenvolvimento
+ORMBr-Restful-Components é um conjunto de componentes para facilitar a criação de serviços RESTful em aplicações que utilizam a biblioteca ORMBr para acesso a banco de dados, ele fornece uma os componentes Server/Client para criar serviços RESTful de forma fácil e rápida para as operações de CRUD (Create, Read, Update, Delete), utilizando uma abordagem de programação orientada a objetos e seguindo boas práticas de desenvolvimento.
+
+### [JSONBr Framework for Delphi](https://github.com/HashLoad/JSONBr)
+
+JSON BRASIL é um framework opensource que provê escritas arquivos JSON, de forma funcional e orientada a objeto, além dos recursos de gerar um JSON de um objeto e popular o objeto com base em um arquivo JSON, seu diferencial são os eventos onGetValue() e onSetValue() que dão a dinâmica de tratar seu próprio tipo de campo, alimentado assim o JSON e lendo esse campo dele.
 
 ...
 
