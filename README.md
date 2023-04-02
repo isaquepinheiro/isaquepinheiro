@@ -18,15 +18,20 @@ A seguir, uma lista de todos os meus projetos open source:
 
 ### [ORMBr Framework for Delphi](https://github.com/HashLoad/ORMBr)
 
-Da visão de aproveitar ao máximo o conceito de Orientação a Objetos, o Mapeamento Objeto-Relacional (ORM) consiste em um framework que tem por objetivo encurtar as distância entre a orientado a objetos e o modelo entidade-relacional, criando uma ponte (mapeamento) entre eles. Com a abordagem, é possível a construção de sistemas aplicando a orientado a objetos, cujos objetos são persistidos em um banco de dados relacional.
+OBJETO RELACIONAL MAPEAMENTO BRASIL é um framework, que da visão de aproveitar ao máximo o conceito de Orientação a Objetos, o Mapeamento Objeto-Relacional (ORM) consiste em ter por objetivo encurtar as distâncias entre o objeto e o modelo entidade, criando uma ponte (mapeamento) entre eles. Com a abordagem, é possível a construção de sistemas aplicando o conceito, cujos os dados são persistidos em um banco de dados..
 
-### [Projeto 2](https://github.com/seu-usuario/projeto-2)
+### [DBEBr Framework for Delphi/Lazarus](https://github.com/HashLoad/DBEBr)
 
+DATABASE ENGINE BRASIL é um framework opensource que provê desacoplamento de conexão através de uma interface orientada a objeto, dando ao seu sistema totalmente desacoplado à um único Engine de conexão, proporcionando a troca para usar qualquer Engine disponível no mercado de forma fácil e simples, este framework é usado pelo projeto ORMBr para se conectar a vários Engines
 Descrição curta do projeto.
 
-### [Projeto 3](https://github.com/seu-usuario/projeto-3)
+### [DBCBr Framework for Delphi](https://github.com/HashLoad/DBCBr)
 
-Descrição curta do projeto.
+DATABASE COMPARER BRASIL é um Framework, comparador de estrutura de banco de dados, nasceu do código do ORMBr que disponibiliza o recurso a um nível mais limitado como: criar tabelas, novos campos a tabela já existente, e outros recursos de criar PrimaryKeys, ForeignKeys e Indexes. O DBCBr, sendo agora um código independente, dará a comunidade mais poder de ajuda, com isso, mais poder ao framework de comparação de metadata mais completo, colabore faça parte desse projeto
+
+### [CQLBr Framework for Delphi/Lazarus](https://github.com/HashLoad/DBCBr)
+
+CRITERIA QUERY LANGUAGE BRASIL é um framework que provê escritas através de uma interface permitindo mapear de forma orientada a objeto, toda sintaxe de comandos para realizar as operações de consulta, inclusão, alteração e exclusão em banco de dados, o projeto propõe a padronização da escrita SQL através dele para múltiplos bancos de dados, dando assim total possibilidade de mudança de banco sem ter que mudar escrita particular do banco usado no seu código.
 
 ...
 
