@@ -75,4 +75,8 @@ Para enviar uma pull request, siga estas etapas:
 <!-- Contato -->
 ## 💬 Contato
 
-Instruções para entrar em contato com você. Inclua links para as suas redes sociais, e-mail, etc.
+- [Telegram](https://t.me/ormbr)
+- [Website](https://www.isaquepinheiro.com.br)
+- [Youtube Channel](https://www.youtube.com.br/isaquepinheirooficialbr)
+- [FaceBook](https://www.facebook.com/isaquepinheirooficialbr)
+- [Instagram](https://www.instagram.com/isaquepinheirooficialbr)
