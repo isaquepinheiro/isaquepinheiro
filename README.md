@@ -52,6 +52,10 @@ InjectorBr é um framework de injeção de dependência para aplicações Delphi
 
 ResultPairBr é um framework para tratamento de resultados em aplicações Delphi. Ele fornece uma abordagem elegante e segura para lidar com resultados de operações que podem ter sucesso ou falha, ele possui dois campos: um para armazenar o valor do resultado em caso de sucesso, e outro para armazenar o motivo da falha em caso de erro. Com o ResultPairBr, os desenvolvedores podem criar operações que retornam um TResultPair em vez de um valor simples. Isso permite que o código que chama a operação verifique se o resultado foi bem sucedido ou não, e trate cada caso de forma apropriada.
 
+### [CQLBr for Dart/Flutter](https://github.com/isaquepinheiro/dart_cqlbr)
+
+CQLBr (CRITERIA QUERY LANGUAGE BRASIL) é um framework que provê escritas através de uma interface permitindo mapear de forma orientada a objeto, toda sintaxe de comandos para realizar as operações de consulta, inclusão, alteração e exclusão em banco de dados, o projeto propõe a padronização da escrita SQL através dele para múltiplos bancos de dados, dando assim total possibilidade de mudança de banco sem ter que mudar escrita particular do banco usado no seu código.
+
 <!-- Contribuição -->
 ## ⛏️ Contribuição
 
