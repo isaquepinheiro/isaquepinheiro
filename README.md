@@ -78,3 +78,4 @@ Para enviar uma pull request, siga estas etapas:
 - [Youtube Channel](https://www.youtube.com.br/isaquepinheirooficialbr)
 - [FaceBook](https://www.facebook.com/isaquepinheirooficialbr)
 - [Instagram](https://www.instagram.com/isaquepinheirooficialbr)
+- [Linkedin](https://www.instagram.com/isaquepinheirooficialbr)
