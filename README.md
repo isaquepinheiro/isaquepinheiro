@@ -57,6 +57,8 @@ ResultPairBr é um framework para tratamento de resultados em aplicações Delph
 
 Eu adoraria receber contribuições para os meus projetos open source. Se você tiver alguma ideia ou correção de bug, sinta-se à vontade para abrir uma issue ou enviar uma pull request.
 
+Create [Issues](https://github.com/isaquepinheiro/isaquepinheiro/issues)
+
 Para enviar uma pull request, siga estas etapas:
 
 1. Faça um fork do projeto
