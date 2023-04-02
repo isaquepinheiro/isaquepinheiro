@@ -52,8 +52,6 @@ InjectorBr é um framework de injeção de dependência para aplicações Delphi
 
 ResultPairBr é um framework para tratamento de resultados em aplicações Delphi. Ele fornece uma abordagem elegante e segura para lidar com resultados de operações que podem ter sucesso ou falha, ele possui dois campos: um para armazenar o valor do resultado em caso de sucesso, e outro para armazenar o motivo da falha em caso de erro. Com o ResultPairBr, os desenvolvedores podem criar operações que retornam um TResultPair em vez de um valor simples. Isso permite que o código que chama a operação verifique se o resultado foi bem sucedido ou não, e trate cada caso de forma apropriada.
 
-...
-
 <!-- Contribuição -->
 ## ⛏️ Contribuição
 
@@ -67,14 +65,10 @@ Para enviar uma pull request, siga estas etapas:
 4. Faça push da branch (`git push origin minha-nova-funcionalidade`)
 5. Abra uma pull request
 
-...
-
 <!-- Licença -->
 ## ✍️ Licença
 
 [![License](https://img.shields.io/badge/Licence-LGPL--3.0-blue.svg)](https://opensource.org/licenses/LGPL-3.0)
-
-...
 
 <!-- Contato -->
 ## 💬 Contato
