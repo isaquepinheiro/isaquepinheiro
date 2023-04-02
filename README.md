@@ -35,7 +35,7 @@ CRITERIA QUERY LANGUAGE BRASIL é um framework que provê escritas através de u
 
 ### [ORMBr Restful Components for Delphi](https://github.com/HashLoad/ORMBr-Restful-Components)
 
-ORMBr-Restful-Components é um conjunto de componentes para facilitar a criação de serviços RESTful em aplicações que utilizam a biblioteca ORMBr para acesso a banco de dados, ele fornece uma os componentes Server/Client para criar serviços RESTful de forma fácil e rápida permitindo que as operações de CRUD (Create, Read, Update, Delete), utilizando uma abordagem de programação orientada a objetos e seguindo boas práticas de desenvolvimento
+ORMBr-Restful-Components é um conjunto de componentes para facilitar a criação de serviços RESTful em aplicações que utilizam a biblioteca ORMBr para acesso a banco de dados, ele fornece uma os componentes Server/Client para criar serviços RESTful de forma fácil e rápida para as operações de CRUD (Create, Read, Update, Delete), utilizando uma abordagem de programação orientada a objetos e seguindo boas práticas de desenvolvimento
 
 ...
 
