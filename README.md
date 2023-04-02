@@ -33,6 +33,10 @@ DATABASE COMPARER BRASIL é um Framework, comparador de estrutura de banco de da
 
 CRITERIA QUERY LANGUAGE BRASIL é um framework que provê escritas através de uma interface permitindo mapear de forma orientada a objeto, toda sintaxe de comandos para realizar as operações de consulta, inclusão, alteração e exclusão em banco de dados, o projeto propõe a padronização da escrita SQL através dele para múltiplos bancos de dados, dando assim total possibilidade de mudança de banco sem ter que mudar escrita particular do banco usado no seu código.
 
+### [ORMBr Restful Components for Delphi](https://github.com/HashLoad/ORMBr-Restful-Components)
+
+ORMBr-Restful-Components é um conjunto de componentes para facilitar a criação de serviços RESTful em aplicações que utilizam a biblioteca ORMBr para acesso a banco de dados, ele fornece uma os componentes Server/Client para criar serviços RESTful de forma fácil e rápida permitindo que as operações de CRUD (Create, Read, Update, Delete), utilizando uma abordagem de programação orientada a objetos e seguindo boas práticas de desenvolvimento
+
 ...
 
 <!-- Contribuição -->
