@@ -70,7 +70,7 @@ Para enviar uma pull request, siga estas etapas:
 <!-- Licença -->
 ## Licença
 
-Informe qual é a licença dos seus projetos. Por exemplo, MIT, GPL, etc.
+[![License](https://img.shields.io/badge/Licence-LGPL--3.0-blue.svg)](https://opensource.org/licenses/LGPL-3.0)
 
 <!-- Contato -->
 ## Contato
