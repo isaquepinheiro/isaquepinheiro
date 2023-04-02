@@ -14,7 +14,7 @@ Esta é uma lista dos meus projetos open source. Aqui você encontrará informa�
 <!-- Lista de Projetos -->
 ## Lista de Projetos
 
-A seguir, uma lista de todos os meus projetos open source:
+A seguir, uma lista dos meus projetos open source:
 
 ### [ORMBr for Delphi](https://github.com/HashLoad/ORMBr)
 
@@ -67,10 +67,14 @@ Para enviar uma pull request, siga estas etapas:
 4. Faça push da branch (`git push origin minha-nova-funcionalidade`)
 5. Abra uma pull request
 
+...
+
 <!-- Licença -->
 ## ✍️ Licença
 
 [![License](https://img.shields.io/badge/Licence-LGPL--3.0-blue.svg)](https://opensource.org/licenses/LGPL-3.0)
+
+...
 
 <!-- Contato -->
 ## 💬 Contato
