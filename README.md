@@ -44,6 +44,10 @@ O LiveBinding é um mecanismo de DataBinding que foi incorporado na versão XE2 
 
 JSON BRASIL é um framework opensource que provê escritas arquivos JSON, de forma funcional e orientada a objeto, além dos recursos de gerar um JSON de um objeto e popular o objeto com base em um arquivo JSON, seu diferencial são os eventos onGetValue() e onSetValue() que dão a dinâmica de tratar seu próprio tipo de campo, alimentado assim o JSON e lendo esse campo dele.
 
+### [InjectorBr Framework for Delphi](https://github.com/HashLoad/InjectorBr)
+
+InjectorBr Framework for Delphi é um framework de injeção de dependência para aplicações Delphi. A injeção de dependência é um padrão de projeto de software que permite desacoplar componentes de uma aplicação, tornando-as mais modulares e fáceis de manter, com ele os desenvolvedores podem facilmente criar aplicações modulares e flexíveis, evitando dependências acopladas e reduzindo a complexidade do código. O framework também inclui recursos para gerenciamento de ciclo de vida dos componentes.
+
 ...
 
 <!-- Contribuição -->
