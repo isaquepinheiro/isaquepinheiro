@@ -48,6 +48,10 @@ JSON BRASIL é um framework opensource que provê escritas arquivos JSON, de for
 
 InjectorBr Framework for Delphi é um framework de injeção de dependência para aplicações Delphi. A injeção de dependência é um padrão de projeto de software que permite desacoplar componentes de uma aplicação, tornando-as mais modulares e fáceis de manter, com ele os desenvolvedores podem facilmente criar aplicações modulares e flexíveis, evitando dependências acopladas e reduzindo a complexidade do código. O framework também inclui recursos para gerenciamento de ciclo de vida dos componentes.
 
+### [ResultPairBr for Delphi](https://github.com/HashLoad/ResultPairBr)
+
+ResultPairBr Framework for Delphi é um framework para tratamento de resultados em aplicações Delphi. Ele fornece uma abordagem elegante e segura para lidar com resultados de operações que podem ter sucesso ou falha, ele possui dois campos: um para armazenar o valor do resultado em caso de sucesso, e outro para armazenar o motivo da falha em caso de erro. Com o ResultPairBr, os desenvolvedores podem criar operações que retornam um TResultPair em vez de um valor simples. Isso permite que o código que chama a operação verifique se o resultado foi bem sucedido ou não, e trate cada caso de forma apropriada.
+
 ...
 
 <!-- Contribuição -->
