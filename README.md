@@ -36,6 +36,10 @@ CRITERIA QUERY LANGUAGE BRASIL é um framework que provê escritas através de u
 
 ORMBr-Restful-Components é um conjunto de componentes para facilitar a criação de serviços RESTful em aplicações que utilizam a biblioteca ORMBr para acesso a banco de dados, ele fornece uma os componentes Server/Client para criar serviços RESTful de forma fácil e rápida para as operações de CRUD (Create, Read, Update, Delete), utilizando uma abordagem de programação orientada a objetos e seguindo boas práticas de desenvolvimento.
 
+### [ORMBr Livebindings for Delphi](https://github.com/HashLoad/ORMBr-LiveBindings)
+
+O LiveBinding é um mecanismo de DataBinding que foi incorporado na versão XE2 do Delphi e que tem o objetivo de fazer a ligação de fontes distintas de dados através de expressões. Já o ORMBr LiveBinding for Delphi, traz todo esse recurso para o mundo POO, simplificando o seu uso e dando mais poder ao ORMBr que faz todos trabalho oneroso para o desenvolvedor, nos seus bastidores.
+
 ### [JSONBr Framework for Delphi](https://github.com/HashLoad/JSONBr)
 
 JSON BRASIL é um framework opensource que provê escritas arquivos JSON, de forma funcional e orientada a objeto, além dos recursos de gerar um JSON de um objeto e popular o objeto com base em um arquivo JSON, seu diferencial são os eventos onGetValue() e onSetValue() que dão a dinâmica de tratar seu próprio tipo de campo, alimentado assim o JSON e lendo esse campo dele.
