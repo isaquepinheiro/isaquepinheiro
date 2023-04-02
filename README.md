@@ -55,7 +55,7 @@ ResultPairBr é um framework para tratamento de resultados em aplicações Delph
 ...
 
 <!-- Contribuição -->
-## Contribuição
+## ⛏️ Contribuição
 
 Eu adoraria receber contribuições para os meus projetos open source. Se você tiver alguma ideia ou correção de bug, sinta-se à vontade para abrir uma issue ou enviar uma pull request.
 
@@ -68,11 +68,11 @@ Para enviar uma pull request, siga estas etapas:
 5. Abra uma pull request
 
 <!-- Licença -->
-## Licença
+## ✍️ Licença
 
 [![License](https://img.shields.io/badge/Licence-LGPL--3.0-blue.svg)](https://opensource.org/licenses/LGPL-3.0)
 
 <!-- Contato -->
-## Contato
+## 💬 Contato
 
 Instruções para entrar em contato com você. Inclua links para as suas redes sociais, e-mail, etc.
