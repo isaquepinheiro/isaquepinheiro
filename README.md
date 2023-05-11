@@ -20,7 +20,7 @@ A seguir, uma lista dos meus projetos open source:
 
 ORMBr (OBJETO RELACIONAL MAPEAMENTO BRASIL) é um framework, que da visão de aproveitar ao máximo o conceito de Orientação a Objetos, o Mapeamento Objeto-Relacional (ORM) consiste em ter por objetivo encurtar as distâncias entre o objeto e o modelo entidade, criando uma ponte (mapeamento) entre eles. Com a abordagem, é possível a construção de sistemas aplicando o conceito, cujos os dados são persistidos em um banco de dados.
 
-[Clique aqui para acessar a documentação do projeto](https://ormbr.docs-br.com)
+📃 [Clique aqui para acessar a documentação do projeto](https://ormbr.docs-br.com)
 
 ### [DBEBr for Delphi/Lazarus](https://github.com/HashLoad/DBEBr)
 
@@ -42,7 +42,7 @@ JSONBr é um framework opensource que provê escritas arquivos JSON, de forma fu
 
 O DMFBr, assim como o Flutter Modular, foi inspirado no recurso NgModule do Angular, que é uma forma de organizar e modularizar uma aplicação Angular. O Flutter Modular, por sua vez, adaptou esse conceito para o ambiente do Flutter, criando um framework de gerenciamento de estados e rotas que se tornou muito popular na comunidade Flutter. O ModularBr, então, foi criado como uma alternativa para o ambiente Delphi, trazendo muitos dos benefícios e conceitos do Flutter Modular para o mundo Delphi. Com isso, o ModularBr permite a criação de aplicativos escaláveis e bem organizados, facilitando a manutenção e evolução do código. O InjectorBr é uma das principais ferramentas do ModularBr, permitindo a injeção de dependências de forma simples e eficiente, além de possibilitar a criação de módulos que podem ser facilmente reutilizados em outras partes da aplicação.
 
-[Clique aqui para acessar a documentação do projeto](https://dmfbr.docs-br.com)
+📃 [Clique aqui para acessar a documentação do projeto](https://dmfbr.docs-br.com)
 
 
 ### [InjectorBr for Delphi](https://github.com/HashLoad/InjectorBr)
