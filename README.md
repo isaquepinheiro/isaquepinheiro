@@ -22,7 +22,7 @@ O DMFBr, assim como o Flutter Modular, foi inspirado no recurso NgModule do Angu
 
 📖 [Clique aqui para acessar a documentação do projeto](https://dmfbr.docs-br.com)
 
-### ⚙️ [ECLBr for Delphi](https://github.com/HashLoad/DMFBr)
+### ⚙️ [ECLBr for Delphi](https://github.com/HashLoad/ECLBr)
 
 A biblioteca "ECLBr" (Essential Core Library for Delphi) é uma poderosa extensão para a linguagem de programação Delphi, que visa enriquecer a experiência de desenvolvimento, fornecendo aos desenvolvedores recursos e padrões encontrados em linguagens de programação modernas. Ela é projetada para tornar o Delphi mais funcional e eficiente, oferecendo funcionalidades como Pattern Matching, paradigma de programação funcional e inspirações nas linguagens modernas.
 
