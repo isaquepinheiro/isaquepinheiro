@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/10ff3ba6-381e-41de-803d-06bb393455b7)
-
+![image](https://github.com/user-attachments/assets/25ed810f-77aa-42ca-85f5-8d8aef707ff9)
 <!-- Título -->
 # Meus Projetos Open Source
 
